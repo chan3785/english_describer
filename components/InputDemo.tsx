@@ -47,7 +47,6 @@ export function InputForm() {
             "X-GitHub-Api-Version": "2022-11-28",
           },
         });
-        console.log(markdown.data);
         setOutput(markdown.data);
         if (output) {
           setPrevResponse(output);
@@ -57,8 +56,6 @@ export function InputForm() {
       }
     } catch (error) {
       console.error("Error:", error);
-    } finally {
-      console.log(output);
     }
   };
 

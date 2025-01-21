@@ -8,5 +8,5 @@
     "default_icon": "vercel.svg"
   },
   "background": {},
-  "permissions": ["activeTab"]
+  "permissions": ["activeTab", "scripting"]
 }
