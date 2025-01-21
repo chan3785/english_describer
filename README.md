@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# This is my AI api - Gemini project for study English.
+It's simple to use. 
+just put text to describe more easly to understand.
+
+you can see the answer, and also you can see the preview response below the answer.
 ## Getting Started
 
 First, run the development server:
