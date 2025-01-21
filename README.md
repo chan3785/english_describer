@@ -2,9 +2,13 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 # This is my AI api - Gemini project for study English.
 It's simple to use. 
-just put text to describe more easly to understand.
+just put the text to describe more easly to understand.
 
-you can see the answer, and also you can see the preview response below the answer.
+you can see the response, and also you can see the preview response below the main text.
+
+it will show you a definition of word, and example sentence. 
+i'll hope you study english with my program.
+
 ## Getting Started
 
 First, You need set ```.env``` variables.
