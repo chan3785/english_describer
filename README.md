@@ -7,7 +7,13 @@ just put text to describe more easly to understand.
 you can see the answer, and also you can see the preview response below the answer.
 ## Getting Started
 
-First, run the development server:
+First, You need set ```.env``` variables.
+```
+GEMINI_API_KEY= <YOUR_API_KEY>
+GITHUB_ACCESS_TOKEN= <YOUR_ACCESS_TOKEN>
+```
+
+Second, run the development server:
 
 ```bash
 npm run dev
